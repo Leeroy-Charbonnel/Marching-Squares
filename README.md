@@ -32,6 +32,6 @@ Demonstration gifs
 Gif #1                     |  Gif #2                   |  Gif #3     
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](Images/gif1.gif)       | ![](Images/gif2.gif)      | ![](Images/gif3.gif) 
-
+Bouncing Balls interpolation no color     |  Bouncing Balls interpolation with color   |  Bouncing Balls no interpolation no color      
  
 
